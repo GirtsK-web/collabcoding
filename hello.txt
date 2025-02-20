@@ -1,2 +1,3 @@
 some text
 Open hello.txt and modify its content
+Hello from Person B! Different update here.
